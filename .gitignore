@@ -1,0 +1,21 @@
+# Datasets & generated artifacts
+data/
+aug_data/
+logs/
+
+# Trained models
+*.h5
+*.pb
+*.keras
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db

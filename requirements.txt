@@ -1,0 +1,7 @@
+tensorflow>=2.9,<2.16
+opencv-python>=4.7
+albumentations>=1.3
+labelme>=5.2
+numpy>=1.23
+matplotlib>=3.6
+jupyter
